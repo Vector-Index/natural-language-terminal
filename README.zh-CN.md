@@ -1,5 +1,5 @@
 # 自然语言终端
-[English](README.md) | 简体中文[(README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md)
 
 **自然语言终端** 是一款由先进AI驱动的创新命令行界面（CLI），旨在通过自然语言提示高效地解释并执行命令。该工具由 **Sean**（来自 **[Vector Index](https://vectorindex.cloud)**）创建，将对话式AI的简单性与传统CLI的强大功能相结合。
 

@@ -1,4 +1,5 @@
 # Natural Language Terminal
+[English](README.md) | [简体中文](README.zh-CN.md)
 
 **Natural Language Terminal** is an innovative command-line interface (CLI) powered by advanced AI, designed to interpret and execute commands efficiently through natural language prompts. Created by **Sean** from **[Vector Index](https://vectorindex.cloud)**, this tool merges the simplicity of conversational AI with the powerful functionality of traditional CLIs.
 
